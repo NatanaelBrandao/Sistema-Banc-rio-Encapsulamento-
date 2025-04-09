@@ -1,0 +1,14 @@
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\bin\Debug\net9.0\Sistema Bancário.exe
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\bin\Debug\net9.0\Sistema Bancário.deps.json
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\bin\Debug\net9.0\Sistema Bancário.runtimeconfig.json
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\bin\Debug\net9.0\Sistema Bancário.dll
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\bin\Debug\net9.0\Sistema Bancário.pdb
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\Sistema Bancário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\Sistema Bancário.AssemblyInfoInputs.cache
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\Sistema Bancário.AssemblyInfo.cs
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\Sistema Bancário.csproj.CoreCompileInputs.cache
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\Sistema Bancário.dll
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\refint\Sistema Bancário.dll
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\Sistema Bancário.pdb
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\Sistema Bancário.genruntimeconfig.cache
+C:\Users\natan\Desktop\Faculdade\Sistema Bancário\obj\Debug\net9.0\ref\Sistema Bancário.dll
